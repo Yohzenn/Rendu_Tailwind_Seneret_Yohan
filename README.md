@@ -6,4 +6,4 @@ Premier cours et projet en utilisant Tailwind.
 
 - Mondrian (CSS Grid)
 - MockDebate (Tailwind)
-- CV (Tailwind
+- CV (Tailwind)
